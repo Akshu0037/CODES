@@ -1,0 +1,31 @@
+#include<stdio.h>
+#include<conio.h>
+
+void main()
+{
+    // + example
+    //int a=15,b=5,c;
+    //c=a+b; //Here '+' is an aritmetic operator.
+    //printf("\n The sum is %d",c);
+
+    // - example
+    //int a=15,b=5,c;
+    //c=a-b; //Here '-' is an aritmetic operator.
+    //printf("\n The subtraction is %d",c);
+
+    // * example
+    //int a=25,b=5,c;
+    //c=a*b; //Here '*' is an aritmetic operator.
+    //printf("\n The multiplication is %d",c);
+
+    // '/' example- returns the quotient
+    //int a=50,b=5,c;
+    //c=a/b; //Here '/' is an aritmetic operator.
+    //printf("\n The division is %d",c);
+
+    // % example- Returns the remainder
+    //int a=12;
+    //int b=5;
+    //int c=a%b;
+    //printf("\nThe modulus is %d",c);
+}
